@@ -66,4 +66,4 @@ ___
 macOS
 1.	Download BTR_App_macOS_v1.0.zip
 2.	Unzip the file
-3.	Run the application
+3.	Double-click the unziped app and the application will launch immediately
