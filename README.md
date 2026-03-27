@@ -66,6 +66,4 @@ ___
 macOS
 1.	Download BTR_App_macOS_v1.0.zip
 2.	Unzip the file
-3.	Run the application:
-	
-<img width="596" height="39" alt="Screenshot 2026-03-22 at 8 03 53 PM" src="https://github.com/user-attachments/assets/56d84c1f-4f19-46e4-885b-d98c09c4180b" />
+3.	Run the application
